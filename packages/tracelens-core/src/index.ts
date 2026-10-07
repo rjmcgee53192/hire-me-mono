@@ -1,8 +1,25 @@
 /**
- * @repo/tracelens-core — scaffold placeholder.
+ * @repo/tracelens-core — synthetic load generation + observability statistics.
  *
- * The dedicated project builder agent owns this package's real public API.
- * It must export everything the showcase demo route at /demos/tracelens
- * needs, keeping this barrel file as the entry point.
+ * A pure-TypeScript toolkit for simulating API traffic and computing the
+ * statistics real observability backends serve: streaming latency histograms,
+ * rolling percentiles, error budgets, synthetic distributed traces, and
+ * threshold alerting. The TraceLens showcase demo drives all of these live.
  */
-export const TRACELENS_CORE_PLACEHOLDER: string = "tracelens-core";
+
+export { mulberry32, makeGaussian, seededGaussian } from "./rng";
+
+export type { MockEndpoint, HttpStatus, Sample } from "./generator";
+export { LoadGen } from "./generator";
+
+export { HISTOGRAM_BOUNDARIES, StreamingHistogram, RollingStats, percentileSorted } from "./stats";
+export type { EndpointStats } from "./stats";
+
+export { ErrorBudget } from "./budget";
+export type { BudgetState } from "./budget";
+
+export { makeTrace } from "./traces";
+export type { Span, Trace, MakeTraceOptions } from "./traces";
+
+export { AlertEngine, makeRuleId } from "./alerts";
+export type { AlertMetric, AlertRule, FiredAlert } from "./alerts";

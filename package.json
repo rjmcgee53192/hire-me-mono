@@ -1,1 +1,20 @@
-{"devDependencies":{"@eslint/js":"^9.37.0","eslint":"^9.37.0","turbo":"^2.7.3","typescript":"^5.9.3","typescript-eslint":"^8.46.1"},"name":"hire-me-mono","packageManager":"pnpm@12.9.1","private":true,"scripts":{"build":"turbo build","dev":"turbo dev","lint":"turbo lint","test":"turbo test","typecheck":"turbo typecheck"},"version":"0.0.0"}
+{
+  "devDependencies": {
+    "@eslint/js": "^9.37.0",
+    "eslint": "^9.37.0",
+    "turbo": "^2.7.3",
+    "typescript": "^5.9.3",
+    "typescript-eslint": "^8.46.1"
+  },
+  "name": "hire-me-mono",
+  "packageManager": "pnpm@12.9.1",
+  "private": true,
+  "scripts": {
+    "build": "turbo build",
+    "dev": "turbo dev",
+    "lint": "turbo lint",
+    "test": "turbo test",
+    "typecheck": "turbo typecheck"
+  },
+  "version": "0.0.0"
+}

@@ -1,8 +1,17 @@
 /**
- * @repo/pulse-core — scaffold placeholder.
+ * @repo/pulse-core — operation-based CRDT-lite for a collaborative whiteboard.
  *
- * The dedicated project builder agent owns this package's real public API.
- * It must export everything the showcase demo route at /demos/pulse
- * needs, keeping this barrel file as the entry point.
+ * - {@link CrdtDoc}: the replica. Lamport clock, op log, tombstone deletes,
+ *   deterministic render order. Merge in any order, converge always.
+ * - {@link PresenceManager}: peer heartbeats with caller-supplied timestamps.
+ * - {@link OpStats}: send→ack latency stats (avg, p95).
  */
-export const PULSE_CORE_PLACEHOLDER: string = "pulse-core";
+export type { Point, SiteId, Stroke, Op, OpKind } from "./types";
+
+export { CrdtDoc } from "./doc";
+export type { ApplyDecision, ApplyReport } from "./doc";
+
+export { PresenceManager } from "./presence";
+export type { PeerInfo } from "./presence";
+
+export { OpStats } from "./stats";

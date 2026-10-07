@@ -1,0 +1,45 @@
+/* Shared dark theme for @repo/ui consumers. */
+
+:root {
+  --ui-bg: #0a0e14;
+  --ui-bg-elevated: #10151d;
+  --ui-bg-overlay: #0d1117;
+  --ui-border: #1e293b;
+  --ui-text: #e2e8f0;
+  --ui-text-muted: #94a3b8;
+  --ui-text-faint: #64748b;
+  --ui-accent: #3b82f6;
+  --ui-accent-hover: #2563eb;
+  --ui-success: #10b981;
+  --ui-warn: #f59e0b;
+  --ui-critical: #ef4444;
+  --ui-info: #38bdf8;
+  color-scheme: dark;
+}
+
+body {
+  background-color: var(--ui-bg);
+  color: var(--ui-text);
+  font-family:
+    ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+::selection {
+  background-color: rgba(59, 130, 246, 0.35);
+}
+
+a {
+  color: var(--ui-info);
+}
+
+code,
+kbd,
+samp,
+pre {
+  font-family:
+    ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+    "Liberation Mono", monospace;
+}

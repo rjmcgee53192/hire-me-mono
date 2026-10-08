@@ -1,7 +1,7 @@
 import { Badge, Card, SectionTitle } from "@repo/ui";
 import { PROJECTS } from "../lib/projects";
 
-const GITHUB = "https://github.com/rjmcgee53192-prog";
+const GITHUB = "https://github.com/rjmcgee53192";
 
 const SKILL_GROUPS: { heading: string; skills: string[] }[] = [
   { heading: "Languages", skills: ["TypeScript", "Python", "SQL"] },

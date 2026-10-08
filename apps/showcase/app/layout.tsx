@@ -9,7 +9,7 @@ export const metadata: Metadata = {
     "I build real-time systems, data-heavy dashboards, and infrastructure tooling — engineered, tested, and live.",
 };
 
-const GITHUB = "https://github.com/rjmcgee53192-prog";
+const GITHUB = "https://github.com/rjmcgee53192";
 
 const NAV_LINKS = [
   { label: "Home", href: "/" },
@@ -55,7 +55,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
               rel="noreferrer"
               className="text-sm text-slate-400 transition-colors hover:text-blue-400"
             >
-              github.com/rjmcgee53192-prog
+              github.com/rjmcgee53192
             </a>
           </div>
         </footer>

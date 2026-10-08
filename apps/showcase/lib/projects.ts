@@ -8,7 +8,7 @@ export interface Project {
   codeUrl: string;
 }
 
-const REPO = "https://github.com/rjmcgee53192-prog/hire-me-mono";
+const REPO = "https://github.com/rjmcgee53192/hire-me-mono";
 
 export const PROJECTS: Project[] = [
   {

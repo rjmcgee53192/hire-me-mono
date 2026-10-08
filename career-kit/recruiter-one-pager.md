@@ -37,6 +37,6 @@ I build interactive, systems-oriented web software — live data, real models un
 ## Contact
 
 - Portfolio: https://hire-me-mono.vercel.app
-- GitHub: https://github.com/rjmcgee53192-prog
+- GitHub: https://github.com/rjmcgee53192
 - LinkedIn: [add your LinkedIn URL]
 - Email: [add your email] · Phone: [add your phone]

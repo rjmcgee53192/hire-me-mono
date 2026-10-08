@@ -1,7 +1,5 @@
-<!-- NOTE FOR RYAN: this file goes in a special repo named exactly rjmcgee53192-prog/rjmcgee53192-prog.
-     Placeholders marked must be replaced with real URLs after the Vercel deploy:
-     - SHOWCASE_URL = the deployed showcase app URL (e.g. https://hire-me-mono.vercel.app)
-     - REPO_URL = the monorepo URL (https://github.com/rjmcgee53192/hire-me-mono) — confirm the repo name -->
+<!-- NOTE FOR RYAN: this file goes in a special repo named exactly rjmcgee53192/rjmcgee53192.
+     (A repo matching your username shows this README on your GitHub profile page.) -->
 
 # Ryan McGee
 

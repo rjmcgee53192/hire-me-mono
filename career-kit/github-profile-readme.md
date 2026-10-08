@@ -1,7 +1,7 @@
 <!-- NOTE FOR RYAN: this file goes in a special repo named exactly rjmcgee53192-prog/rjmcgee53192-prog.
-     Placeholders marked [NEEDS-URL] must be replaced with real URLs after the Vercel deploy:
+     Placeholders marked must be replaced with real URLs after the Vercel deploy:
      - SHOWCASE_URL = the deployed showcase app URL (e.g. https://hire-me-mono.vercel.app)
-     - REPO_URL = the monorepo URL (https://github.com/rjmcgee53192-prog/hire-me-mono) — confirm the repo name -->
+     - REPO_URL = the monorepo URL (https://github.com/rjmcgee53192/hire-me-mono) — confirm the repo name -->
 
 # Ryan McGee
 
@@ -15,13 +15,13 @@ I design and build interactive engineering software: telemetry dashboards, fleet
 
 | Project | What it is | Live demo | Code |
 |---|---|---|---|
-| **Astra Telemetry** | Mission-control dashboard: deterministic rocket-flight sim engine, canvas time-series charts, event timeline (Max-Q, MECO, stage sep), scrub + anomaly injection | https://SHOWCASE_URL/demos/astra [NEEDS-URL] | `packages/astra-core` |
-| **Volt Fleet** | EV fleet ops: live vehicle map, battery/health panels, charging scheduler optimizing against time-of-use pricing, trip planner | https://SHOWCASE_URL/demos/volt [NEEDS-URL] | `packages/volt-core` |
-| **TensorGrid** | GPU cluster observability: node heatmaps (util/power/temp), priority job scheduler sim, throughput charts, threshold alerts | https://SHOWCASE_URL/demos/tensorgrid [NEEDS-URL] | `packages/tensorgrid-core` |
-| **Pulse** | Realtime collab whiteboard: canvas drawing, presence cursors, CRDT-lite merge converging concurrent edits, ops/latency stats | https://SHOWCASE_URL/demos/pulse [NEEDS-URL] | `packages/pulse-core` |
-| **TraceLens** | API observability: synthetic load generator, live p50/p95/p99 via streaming histograms, error-budget burn-down, trace waterfalls | https://SHOWCASE_URL/demos/tracelens [NEEDS-URL] | `packages/tracelens-core` |
+| **Astra Telemetry** | Mission-control dashboard: deterministic rocket-flight sim engine, canvas time-series charts, event timeline (Max-Q, MECO, stage sep), scrub + anomaly injection | https://hire-me-mono.vercel.app/demos/astra | `packages/astra-core` |
+| **Volt Fleet** | EV fleet ops: live vehicle map, battery/health panels, charging scheduler optimizing against time-of-use pricing, trip planner | https://hire-me-mono.vercel.app/demos/volt | `packages/volt-core` |
+| **TensorGrid** | GPU cluster observability: node heatmaps (util/power/temp), priority job scheduler sim, throughput charts, threshold alerts | https://hire-me-mono.vercel.app/demos/tensorgrid | `packages/tensorgrid-core` |
+| **Pulse** | Realtime collab whiteboard: canvas drawing, presence cursors, CRDT-lite merge converging concurrent edits, ops/latency stats | https://hire-me-mono.vercel.app/demos/pulse | `packages/pulse-core` |
+| **TraceLens** | API observability: synthetic load generator, live p50/p95/p99 via streaming histograms, error-budget burn-down, trace waterfalls | https://hire-me-mono.vercel.app/demos/tracelens | `packages/tracelens-core` |
 
-Monorepo: https://github.com/rjmcgee53192-prog/hire-me-mono [NEEDS-URL — confirm repo name]
+Monorepo: https://github.com/rjmcgee53192/hire-me-mono
 
 ---
 
@@ -46,6 +46,6 @@ Building and shipping a five-project engineering monorepo — open to **Senior F
 
 ## 📫 Contact
 
-- Portfolio: https://SHOWCASE_URL [NEEDS-URL]
+- Portfolio: https://hire-me-mono.vercel.app
 - LinkedIn: [add your LinkedIn URL]
 - Email: [add your email]

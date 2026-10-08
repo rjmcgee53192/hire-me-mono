@@ -1,6 +1,6 @@
 # LinkedIn Blurbs — ready to paste
 
-<!-- Placeholders marked [NEEDS-URL] need the real Vercel deploy URL after launch. -->
+<!-- Placeholders marked need the real Vercel deploy URL after launch. -->
 
 ---
 
@@ -33,8 +33,8 @@ What ties them together is how I like to work: model the domain properly (state 
 
 I'm targeting senior full-stack and software engineering roles, remote US — teams building real-time products, developer tools, or data-intensive interfaces. If that's you, let's talk.
 
-🔗 Live demos: https://SHOWCASE_URL [NEEDS-URL]
-💻 Code: https://github.com/rjmcgee53192-prog/hire-me-mono [NEEDS-URL — confirm repo name]
+🔗 Live demos: https://hire-me-mono.vercel.app
+💻 Code: https://github.com/rjmcgee53192/hire-me-mono
 
 ---
 

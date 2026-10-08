@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![Stack](https://img.shields.io/badge/stack-Next.js%2015%20%E2%80%A2%20React%2019%20%E2%80%A2%20TypeScript%20strict%20%E2%80%A2%20Tailwind%20v4-blue)
 
-A recruiter-grade monorepo by **Ryan McGee**, Senior Full-Stack Software
+A recruiter-grade monorepo by **Ryan McGee**, Full-Stack Software
 Engineer. Five production-quality builds, each one a **live interactive demo**
 backed by its own tested package — real-time systems, data-heavy dashboards,
 and infrastructure tooling. No mockups, no screenshots: click through and break

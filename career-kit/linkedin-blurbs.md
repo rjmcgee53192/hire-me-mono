@@ -7,7 +7,7 @@
 ## Headline — pick one (3 variants)
 
 **Variant A (direct, keyword-rich):**
-Senior Full-Stack Engineer | React · TypeScript · Real-Time Systems | I build mission-control-grade web apps
+Full-Stack Software Engineer | React · TypeScript · Real-Time Systems | I build mission-control-grade web apps
 
 **Variant B (systems angle):**
 Software Engineer — Real-Time Dashboards, Simulation & Observability | Next.js · TypeScript · Systems Design

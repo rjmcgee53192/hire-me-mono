@@ -4,7 +4,7 @@ import "./globals.css";
 import "@repo/ui/styles.css";
 
 export const metadata: Metadata = {
-  title: "Ryan McGee — Senior Full-Stack Software Engineer",
+  title: "Ryan McGee — Full-Stack Software Engineer",
   description:
     "I build real-time systems, data-heavy dashboards, and infrastructure tooling — engineered, tested, and live.",
 };

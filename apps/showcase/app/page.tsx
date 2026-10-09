@@ -35,7 +35,7 @@ export default function HomePage() {
             Ryan McGee
           </h1>
           <p className="mt-3 text-xl font-medium text-blue-400">
-            Senior Full-Stack Software Engineer
+            Full-Stack Software Engineer
           </p>
           <p className="mx-auto mt-4 max-w-2xl text-lg text-slate-400">
             I build real-time systems, data-heavy dashboards, and

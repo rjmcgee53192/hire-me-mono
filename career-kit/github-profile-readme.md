@@ -3,7 +3,7 @@
 
 # Ryan McGee
 
-### Senior Full-Stack Engineer — I build real-time systems you can click.
+### Full-Stack Software Engineer — I build real-time systems you can click.
 
 I design and build interactive engineering software: telemetry dashboards, fleet optimizers, cluster schedulers, collaborative tools, observability platforms. TypeScript, React, and systems thinking — every project below is live, tested, and deployed, not a mockup.
 
@@ -40,7 +40,7 @@ Monorepo: https://github.com/rjmcgee53192/hire-me-mono
 
 ## 📌 Currently
 
-Building and shipping a five-project engineering monorepo — open to **Senior Full-Stack / Software Engineering roles, remote US**.
+Building and shipping a five-project engineering monorepo — open to **Full-Stack / Software Engineering roles (junior to mid-level), remote US**.
 
 ## 📫 Contact
 

@@ -1,8 +1,8 @@
-# Ryan McGee — Senior Full-Stack Engineer
+# Ryan McGee — Full-Stack Software Engineer
 
 <!-- Recruiter one-pager: skimmable in 60 seconds. Placeholders marked need real URLs after the Vercel deploy. -->
 
-**Targeting:** Senior Full-Stack / Software Engineering roles — remote US
+**Targeting:** Full-Stack / Software Engineering roles (junior to mid-level) — remote US
 **Stack:** TypeScript · React 19 · Next.js 15 · Tailwind · Turborepo · Vitest · GitHub Actions
 
 ---

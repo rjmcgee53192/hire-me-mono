@@ -31,7 +31,7 @@ My recent work is a five-project engineering monorepo (Turborepo, Next.js 15, Re
 
 What ties them together is how I like to work: model the domain properly (state machines, schedulers, statistical estimators), keep the hot paths off React's render cycle (ring buffers, canvas, memoization), write the tests that prove the logic, and ship with CI so the build is never red.
 
-I'm targeting senior full-stack and software engineering roles, remote US — teams building real-time products, developer tools, or data-intensive interfaces. If that's you, let's talk.
+I'm targeting full-stack and software engineering roles (junior to mid-level), remote US — teams building real-time products, developer tools, or data-intensive interfaces. If that's you, let's talk.
 
 🔗 Live demos: https://hire-me-mono.vercel.app
 💻 Code: https://github.com/rjmcgee53192/hire-me-mono

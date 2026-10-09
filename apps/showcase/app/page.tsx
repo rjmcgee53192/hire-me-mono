@@ -30,7 +30,7 @@ export default function HomePage() {
       {/* Hero */}
       <section className="bg-grid relative overflow-hidden">
         <div className="mx-auto max-w-6xl px-6 pb-20 pt-24 text-center">
-          <Badge tone="info">Open to senior engineering roles</Badge>
+          <Badge tone="info">Open to full-stack engineering roles</Badge>
           <h1 className="mt-6 text-5xl font-extrabold tracking-tight text-slate-100 sm:text-6xl">
             Ryan McGee
           </h1>
